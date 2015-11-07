@@ -9,7 +9,7 @@ import subprocess # for check_call
 
 packs=[
 	# ruby
-	'rails3', # for Ruby on Rails
+	'rails', # for Ruby on Rails
 ]
 
 args=['sudo','apt-get','install','--assume-yes']
