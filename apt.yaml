@@ -1,8 +1,0 @@
----
-packages:
-        - name: ruby
-          reason: for ruby(1) and the core langauge
-        - name: ruby-dev
-          reason: for compiling C modules for ruby
-        - name: rails
-          reason: for Ruby on Rails
