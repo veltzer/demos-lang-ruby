@@ -1,8 +1,8 @@
 packages=[
     # for ruby(1) and the core langauge
-    'ruby',
+    "ruby",
     # for compiling C modules for ruby
-    'ruby-dev',
+    "ruby-dev",
     # for Ruby on Rails
-    'rails',
+    "rails",
 ]
