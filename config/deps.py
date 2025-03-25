@@ -1,3 +1,7 @@
+"""
+os level dependencies for this project
+"""
+
 packages=[
     # for ruby(1) and the core langauge
     "ruby",
